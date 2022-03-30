@@ -8,6 +8,6 @@ We shall explore some simple neural nets through this dataset and implement our 
 In this project we use 2 hidden layers and an output softmax layer containing 10 nodes.
 We use an input layer containing a single channel from the greyscale image(0-255)
 here's a heuristic of the Network used:
-![Digit_rec](https://user-images.githubusercontent.com/78545129/160871778-39b679ce-71b5-4b7b-a11a-763c433f5fed.png)
+![Digit_rec](https://github.com/ashrithjacob/MNIST_dataset_project/blob/main/Digit_rec.png)
 
 
