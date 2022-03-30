@@ -10,4 +10,7 @@ We use an input layer containing a single channel from the greyscale image(0-255
 here's a heuristic of the Network used:
 ![Digit_rec](https://github.com/ashrithjacob/MNIST_dataset_project/blob/main/Digit_rec.png)
 
+For the loss function, we use a negative likelihood loss function and for the gradient descent a SGD is used.
+
+
 
